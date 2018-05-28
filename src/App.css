@@ -1,0 +1,13 @@
+.app {
+    padding: 20px 10px;
+}
+
+.app-contacts {
+    padding: 0;
+}
+
+.app-contacts li {
+    list-style: none;
+    padding: 7px 15px;
+    cursor: pointer;
+}
